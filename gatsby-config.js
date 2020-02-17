@@ -5,6 +5,10 @@
  */
 
 module.exports = {
+  siteMetaData: {
+    title: 'My Personal Website',
+    author: 'Omer Yildiz'
+  },
   plugins: [
     'gatsby-plugin-sass'
   ]
